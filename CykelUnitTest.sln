@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cykel", "Cykel\Cykel.csproj", "{38559FC5-39D7-445B-9E50-B928CC290318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelTests", "CykelTests\CykelTests.csproj", "{14ABF52C-3C99-45F1-B728-52F193C0FC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38559FC5-39D7-445B-9E50-B928CC290318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38559FC5-39D7-445B-9E50-B928CC290318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38559FC5-39D7-445B-9E50-B928CC290318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38559FC5-39D7-445B-9E50-B928CC290318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ABF52C-3C99-45F1-B728-52F193C0FC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ABF52C-3C99-45F1-B728-52F193C0FC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ABF52C-3C99-45F1-B728-52F193C0FC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ABF52C-3C99-45F1-B728-52F193C0FC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D090FB5A-270C-4213-BE35-4FC498A1BE9F}
+	EndGlobalSection
+EndGlobal
